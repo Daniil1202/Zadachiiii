@@ -44,8 +44,8 @@
 # 123456 -> no
 
 # t = input ('ВВедите номер билета : ')
-# i = int (t[0])+ int (t[1]) + int (t[2])
-# r = int (t[3]) + int (t[4]) + int (t[5])
+# i = int (t[0]) +  int(t[1]) + int(t[2])
+# r = int (t[3]) +  int(t[4]) + int(t[5])
 # if i ==r:
 #     print ('yes') 
 # else :
